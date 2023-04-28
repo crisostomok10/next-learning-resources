@@ -18,28 +18,28 @@
 		"title": "MassKara Festival",
 		"short": "Lorem ipsum dolor sit amet",
 		"slug": "masskara-festival",
-		"image": "https://en.wikipedia.org/wiki/MassKara_Festival#/media/File:Queen_of_Masskara.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Queen_of_Masskara.jpg/1280px-Queen_of_Masskara.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque iaculis mauris, non ultricies augue lacinia ut. Maecenas vel dapibus purus, a convallis felis. Vestibulum mattis faucibus tristique. Nulla commodo nec justo sit amet lobortis. In ac gravida massa, posuere viverra turpis. Pellentesque efficitur finibus sem eget eleifend. Sed cursus imperdiet libero eu finibus."
 	  },
 	  {
 		"title": "Kadayawan Festival",
 		"short": "Lorem ipsum dolor sit amet",
 		"slug": "kadayawan-festival   ",
-		"image": "https://en.wikipedia.org/wiki/Kadayawan_Festival#/media/File:Indak_Boy_Kadayawan_Festival_1.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Indak_Boy_Kadayawan_Festival_1.jpg/1920px-Indak_Boy_Kadayawan_Festival_1.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque iaculis mauris, non ultricies augue lacinia ut. Maecenas vel dapibus purus, a convallis felis. Vestibulum mattis faucibus tristique. Nulla commodo nec justo sit amet lobortis. In ac gravida massa, posuere viverra turpis. Pellentesque efficitur finibus sem eget eleifend. Sed cursus imperdiet libero eu finibus."
 	  },
 	  {
 		"title": "Panagbenga Festival",
 		"short": "Lorem ipsum dolor sit amet",
 		"slug": "panagbenga-festival",
-		"image": "https://en.wikipedia.org/wiki/Panagbenga_Festival#/media/File:Panagbenga_2009_-_IMG_0613_(Lolay)_-_Flickr.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Panagbenga_2009_-_IMG_0613_%28Lolay%29_-_Flickr.jpg/1280px-Panagbenga_2009_-_IMG_0613_%28Lolay%29_-_Flickr.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a ex euismod, porta sem a, volutpat quam. Fusce risus turpis, lobortis sed tellus et, pretium gravida nibh. Mauris blandit felis sed auctor euismod. Cras eros tortor, dictum eget rhoncus nec, pulvinar vitae quam. Cras mattis risus eu accumsan aliquam. Nulla lacinia eros arcu, sed tincidunt erat commodo eu. Suspendisse tempus consequat iaculis. In tristique nisl id dolor aliquet, quis fermentum nisi lobortis. Maecenas hendrerit enim et lacus consequat vulputate. Vestibulum cursus molestie interdum. Etiam ex ante, vestibulum et varius eget, ultricies at massa. Integer dictum aliquam nisi. Vestibulum vel magna nec felis hendrerit hendrerit quis ut augue. Praesent vitae erat odio."
 	  },
 	  {
 		"title": "Pahiyas Festival",
 		"short": "Lorem ipsum dolor sit amet",
 		"slug": "pahiyas-festival",
-		"image": "https://en.wikipedia.org/wiki/Lucban#/media/File:Fried_Kiping_Vendor.jpg",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fried_Kiping_Vendor.jpg/220px-Fried_Kiping_Vendor.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a ex euismod, porta sem a, volutpat quam. Fusce risus turpis, lobortis sed tellus et, pretium gravida nibh. Mauris blandit felis sed auctor euismod. Cras eros tortor, dictum eget rhoncus nec, pulvinar vitae quam. Cras mattis risus eu accumsan aliquam. Nulla lacinia eros arcu, sed tincidunt erat commodo eu. Suspendisse tempus consequat iaculis. In tristique nisl id dolor aliquet, quis fermentum nisi lobortis. Maecenas hendrerit enim et lacus consequat vulputate. Vestibulum cursus molestie interdum. Etiam ex ante, vestibulum et varius eget, ultricies at massa. Integer dictum aliquam nisi. Vestibulum vel magna nec felis hendrerit hendrerit quis ut augue. Praesent vitae erat odio."
 	  }
 	]
