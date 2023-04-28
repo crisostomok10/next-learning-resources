@@ -2,7 +2,7 @@
 	"posts": [
 	  {
 		"title": "The Higantes Festival",
-		"short-desc": "Lorem ipsum dolor sit amet",
+		"short": "Lorem ipsum dolor sit amet",
 		"slug": "the-higantes-festiva",
 		"image": "https://www.bria.com.ph/wp-content/uploads/2022/11/higantes-festival-1-scaled.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque iaculis mauris, non ultricies augue lacinia ut. Maecenas vel dapibus purus, a convallis felis. Vestibulum mattis faucibus tristique. Nulla commodo nec justo sit amet lobortis. In ac gravida massa, posuere viverra turpis. Pellentesque efficitur finibus sem eget eleifend. Sed cursus imperdiet libero eu finibus."
@@ -16,7 +16,7 @@
 	  },
 	  {
 		"title": "MassKara Festival",
-		"shortc": "Lorem ipsum dolor sit amet",
+		"short": "Lorem ipsum dolor sit amet",
 		"slug": "masskara-festival",
 		"image": "https://en.wikipedia.org/wiki/MassKara_Festival#/media/File:Queen_of_Masskara.jpg",
 		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pellentesque iaculis mauris, non ultricies augue lacinia ut. Maecenas vel dapibus purus, a convallis felis. Vestibulum mattis faucibus tristique. Nulla commodo nec justo sit amet lobortis. In ac gravida massa, posuere viverra turpis. Pellentesque efficitur finibus sem eget eleifend. Sed cursus imperdiet libero eu finibus."
